@@ -15,7 +15,7 @@ We have reviewed thousands of tech resumes and interviewed hundreds of job candi
 #### [Kevin Coleman](http://www.kcoleman.me)
 Kevin Coleman is the hiring manager at [Zugata](http://www.zugata.com) and [yes, we are hiring junior devs!](http://www.zugata.com/jobs).
 
-#### Alan Butler
+#### Allan Butler
 Currently works in the recruiting space at a top tech startup in the silicon valley.  He is an expert data scientist and NLP guru.
 
 ### Contact us
